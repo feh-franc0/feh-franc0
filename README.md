@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Fernando Franco 
  <div>
   <a href="https://github.com/feh-franc0">
-  <img height="200em" width="200%" src="https://github-readme-stats.vercel.app/api?username=feh-franc0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=feh-franc0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
