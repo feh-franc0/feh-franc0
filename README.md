@@ -4,7 +4,8 @@
  
 - 😄 Me chamo Fernando Franco. Trabalho na aréa desde 2022!
 - 🌱 Desenvolvo em ReactJS e NodeJS, ambos com Typescript
-- 📫 Contato: fernandofv1110@gmail.com
+- 📫 Email: fernandofv1110@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
 - 🚀 Nos tempos vagos desenvolvo um projeto pessoal no qual visa atender o mercado financeiro, assim desenvolvendo ainda mais minhas habilidades me dedicando aos ambitos do conhecimento dos quais mais tenho afinidade !
  
  ##
