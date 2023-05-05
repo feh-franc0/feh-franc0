@@ -1,4 +1,4 @@
-# Olá! Bem vindo ao meu GitHub!!! 😄👋
+# ***Olá! Bem vindo ao meu GitHub!!! 😄👋***
  <div>
  
 - 🤓 Me chamo Fernando Franco. Trabalho na aréa desde 2022!
@@ -15,13 +15,13 @@
  ## 
 -->
  
-# Meus Projetos no GitHub 💻
+# ***Meus Projetos no GitHub 💻***
 
 Neste repositório, você encontrará todos os meus projetos, desde projetos pessoais até projetos de estudos e provas de cursos que já fiz.
 
 ## 🌟 Pinned Repositórios 📌
 
-Na seção "Pinned" do meu perfil, você encontrará os **seis repositórios que considerei mais relevantes**, fica logo abaixo dessa sessão:
+Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios que considerei mais relevantes***, fica logo abaixo dessa sessão:
 
 ### 1. Projeto de E-commerce 🛍️
 
