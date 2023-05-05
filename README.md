@@ -21,7 +21,7 @@ Neste repositório, você encontrará todos os meus projetos, desde projetos pes
 
 ## 🌟 Pinned Repositórios 📌
 
-Na seção "Pinned" do meu perfil, você encontrará os **seis repositórios que considerei mais relevantes**:
+Na seção "Pinned" do meu perfil, você encontrará os **seis repositórios que considerei mais relevantes**, fica logo abaixo dessa sessão:
 
 ### 1. Projeto de E-commerce 🛍️
 
