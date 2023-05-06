@@ -22,30 +22,18 @@ Neste repositório, você encontrará todos os meus projetos, desde projetos pes
 ## 🌟 Pinned Repositórios 📌
 
 Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios que considerei mais relevantes***, fica logo abaixo dessa sessão:
-
-### 1. Projeto de E-commerce 🛍️
-
-Este projeto é um sistema de e-commerce completo, desenvolvido com as tecnologias mais recentes do mercado, como React, Redux, Node.js e MongoDB. Ele permite que os usuários comprem produtos, acompanhem seus pedidos e gerenciem suas contas.
-
-### 2. Projeto de Rede Social 📱
-
-Este projeto é uma rede social com recursos completos, como perfis de usuário, postagens, curtidas, comentários e seguidores. Ele foi desenvolvido com React, Node.js e MongoDB e inclui recursos de autenticação e autorização.
-
-### 3. Projeto de Blog 📝
-
-Este projeto é um blog simples, desenvolvido com React e Node.js. Ele inclui recursos como postagens, comentários, categorias e tags, além de uma área de administração protegida por senha.
-
-### 4. Projeto de Gerenciamento de Tarefas 📅
-
-Este projeto é um aplicativo web de gerenciamento de tarefas, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários criem tarefas, atribuam prazos e prioridades, e acompanhem seu progresso.
-
-### 5. Projeto de Gerenciamento de Finanças 💰
+ 
+### 1. Projeto de Gerenciamento de Finanças 💰
 
 Este projeto é um aplicativo web de gerenciamento de finanças pessoais, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários adicionem suas despesas e receitas, classifiquem suas transações e gerem relatórios para ajudá-los a controlar suas finanças.
 
-### 6. Projeto de Jogo 🎮
+### 2. Projeto de E-commerce 🛍️
 
-Este projeto é um jogo simples, desenvolvido com HTML, CSS e JavaScript. Ele inclui recursos como pontuação, vidas e obstá
+Este projeto é um sistema de e-commerce completo, desenvolvido com as tecnologias mais recentes do mercado, como React, Redux, Node.js e MongoDB. Ele permite que os usuários comprem produtos, acompanhem seus pedidos e gerenciem suas contas.
+
+### 3. Projeto de Gerenciamento de Tarefas 📅
+
+Este projeto é um aplicativo web de gerenciamento de tarefas, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários criem tarefas, atribuam prazos e prioridades, e acompanhem seu progresso.
  
  
   ##
