@@ -33,7 +33,7 @@ Este projeto é um sistema de e-commerce completo, desenvolvido com as tecnologi
 
 ### 3. Projeto de Gerenciamento de Tarefas 📅
 
-Este projeto é um aplicativo web de gerenciamento de tarefas, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários criem tarefas, atribuam prazos e prioridades, e acompanhem seu progresso.
+Este projeto é um aplicativo web de gerenciamento de tarefas, fiz a parte do Front-end usando Next um Framework React, fiz esse projeto atuando como gestor front-end, ajudando e auxiliando em entregas de tickets de funcionalidade. A parte do Backend foi feita por outra equipe.
  
  
   ##
