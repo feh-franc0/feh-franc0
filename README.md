@@ -25,7 +25,11 @@ Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios qu
  
 ### 1. Projeto de Gerenciamento de Finanças 💰
 
-Este projeto é um aplicativo web de gerenciamento de finanças pessoais, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários adicionem suas despesas e receitas, classifiquem suas transações e gerem relatórios para ajudá-los a controlar suas finanças.
+Este projeto é um aplicativo web de gerenciamento de finanças pessoais, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários adicionem suas despesas e receitas, classifiquem suas transações e gerem relatórios para ajudá-los a controlar suas finanças. 
+
+### 2. Banco de Dados Físico (Nodejs & node:fs) 🗄️
+
+Implementação de um banco de dados físico em Node.js utilizando o módulo 'fs'. Oferece métodos para selecionar, buscar por ID, inserir, atualizar e excluir dados em um arquivo JSON. A classe 'Database' utiliza leitura e escrita assíncronas para persistir os dados no arquivo 'db.json'.
  
  
   ##
