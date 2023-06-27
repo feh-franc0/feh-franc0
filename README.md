@@ -26,14 +26,6 @@ Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios qu
 ### 1. Projeto de Gerenciamento de Finanças 💰
 
 Este projeto é um aplicativo web de gerenciamento de finanças pessoais, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários adicionem suas despesas e receitas, classifiquem suas transações e gerem relatórios para ajudá-los a controlar suas finanças.
-
-### 2. Projeto de E-commerce 🛍️
-
-Este projeto é um sistema de e-commerce completo, desenvolvido com as tecnologias mais recentes do mercado, como React, Redux, Node.js e MongoDB. Ele permite que os usuários comprem produtos, acompanhem seus pedidos e gerenciem suas contas.
-
-### 3. Projeto de Gerenciamento de Tarefas 📅
-
-Este projeto é um aplicativo web de gerenciamento de tarefas, fiz a parte do Front-end usando Next um Framework React, fiz esse projeto atuando como gestor front-end, ajudando e auxiliando em entregas de tickets de funcionalidade. A parte do Backend foi feita por outra equipe.
  
  
   ##
