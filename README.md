@@ -30,7 +30,7 @@ Este projeto é um aplicativo web e mobile de gerenciamento de empresas para hom
 
 ### 2. Backend sistema de forum 💬 
 
-[Visite o código do forum aqui]([https://gscare.com.br/](https://github.com/feh-franc0/nest-clean))
+[Visite o código do forum aqui](https://github.com/feh-franc0/nest-clean)
 
 O projeto de forum foi desenvolvido em Node com Nest, focado em aplicar os melhores padrões de projeto como DDD, TDD, clean, Pub/sub, Micro-serviços e os Patterns mais usados no mercado.
  
