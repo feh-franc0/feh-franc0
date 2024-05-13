@@ -26,9 +26,16 @@ Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios qu
 ### 1. Projeto Gscare 🌡️🏥
 [Visite o site GSCare aqui](https://gscare.com.br/)
 
-Este projeto é um aplicativo web e mobile de gerenciamento de empresas para homecare, desenvolvido com React, React-Native e ASP.NET core. Ele permite que os usuários adicionem pacietes e funcionários e gerencie consultas, dessa forma a empresa saberá o que ocorreu em cada atendimento. 
+Este projeto é um aplicativo web e mobile de gerenciamento de empresas para homecare, desenvolvido com React, React-Native e ASP.NET core. Ele permite que os usuários adicionem pacietes e funcionários e gerencie consultas, dessa forma a empresa saberá o que ocorreu em cada atendimento.
 
-### 2. Sistema de Gestão Logística 📦🚚
+### 2. Backend sistema de forum 💬 
+
+[Visite o código do forum aqui]([https://gscare.com.br/](https://github.com/feh-franc0/nest-clean))
+
+O projeto de forum foi desenvolvido em Node com Nest, focado em aplicar os melhores padrões de projeto como DDD, TDD, clean, Pub/sub, Micro-serviços e os Patterns mais usados no mercado.
+ 
+
+### 3. Sistema de Gestão Logística 📦🚚
 
 O projeto de gestão logística será desenvolvido em Java com Spring, visando automatizar e otimizar processos-chave da cadeia de suprimentos. Com funcionalidades como importação de notas fiscais em XML para cadastro automático de produtos, atribuição de clientes a rotas específicas e relatórios para acompanhar as entregas, o objetivo é aumentar a eficiência operacional e melhorar a experiência do cliente na distribuição.
  
