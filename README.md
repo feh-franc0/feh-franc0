@@ -2,10 +2,10 @@
  <div>
  
 - 🤓 Me chamo Fernando Franco. Trabalho na aréa desde 2022!
-- 🌱 Desenvolvo em ***ReactJS*** e ***NodeJS***, ambos com ***Typescript***
+- 🌱 Desenvolvo em ***C#*** e ***Java***. também em ***ReactJS*** e ***NodeJS***, ambos com ***Typescript***
 - 📫 Email: fernandofv1110@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
-- 🚀 Nos tempos vagos, desenvolvo um projeto pessoal no qual visa atender o mercado financeiro, assim desenvolvendo ainda mais minhas habilidades e me dedicando aos âmbitos do conhecimento dos quais mais tenho afinidade! 💼💻💰
+- 🚀 Nos tempos vagos, desenvolvo um projeto pessoal no qual visa atender o mercado de homecare, assim desenvolvendo ainda mais minhas habilidades.💻
  
  ##
 <!--
@@ -23,7 +23,7 @@ Neste repositório, você encontrará todos os meus projetos, desde projetos pes
 
 Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios que considerei mais relevantes***, fica logo abaixo dessa sessão:
  
-### 1. Projeto Gscare 💰
+### 1. Projeto Gscare 🌡️🏥
 [Visite o site GSCare aqui](https://gscare.com.br/)
 
 Este projeto é um aplicativo web e mobile de gerenciamento de empresas para homecare, desenvolvido com React, React-Native e ASP.NET core. Ele permite que os usuários adicionem pacietes e funcionários e gerencie consultas, dessa forma a empresa saberá o que ocorreu em cada atendimento. 
