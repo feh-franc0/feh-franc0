@@ -23,27 +23,25 @@ Neste repositório, você encontrará todos os meus projetos, desde projetos pes
 
 Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios que considerei mais relevantes***, fica logo abaixo dessa sessão:
  
-### 1. Projeto de Gerenciamento de Finanças 💰
+### 1. Projeto Gscare 💰
+[Visite o site GSCare aqui](https://gscare.com.br/)
 
-Este projeto é um aplicativo web de gerenciamento de finanças pessoais, desenvolvido com React, Node.js e MongoDB. Ele permite que os usuários adicionem suas despesas e receitas, classifiquem suas transações e gerem relatórios para ajudá-los a controlar suas finanças. 
+Este projeto é um aplicativo web e mobile de gerenciamento de empresas para homecare, desenvolvido com React, React-Native e ASP.NET core. Ele permite que os usuários adicionem pacietes e funcionários e gerencie consultas, dessa forma a empresa saberá o que ocorreu em cada atendimento. 
 
-### 2. Banco de Dados Físico (Nodejs & node:fs) 🗄️
+### 2. Sistema de Gestão Logística 📦🚚
 
-Implementação de um banco de dados físico em Node.js utilizando o módulo 'fs'. Oferece métodos para selecionar, buscar por ID, inserir, atualizar e excluir dados em um arquivo JSON. A classe 'Database' utiliza leitura e escrita assíncronas para persistir os dados no arquivo 'db.json'.
+O projeto de gestão logística será desenvolvido em Java com Spring, visando automatizar e otimizar processos-chave da cadeia de suprimentos. Com funcionalidades como importação de notas fiscais em XML para cadastro automático de produtos, atribuição de clientes a rotas específicas e relatórios para acompanhar as entregas, o objetivo é aumentar a eficiência operacional e melhorar a experiência do cliente na distribuição.
  
  
   ##
  
    
   <div style="display: inline_block"><br>
-  <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" left="30" alt="feh-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="feh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="feh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="feh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" left="30" align="center" alt="feh-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" left="30" alt="feh-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="feh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" left="30" alt="feh-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" left="30" alt="feh-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" left="30" alt="feh-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
