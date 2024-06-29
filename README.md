@@ -5,7 +5,7 @@
 - 🌱 Desenvolvo em ***C#***, ***.NET***, ***ASP.NET core*** e ***ReactTS***
 - 📫 Email: fernandofv1110@gmail.com
 - 🧑‍💼 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
-- 🚀 Nos tempos vagos, desenvolvo um projeto pessoal no qual visa atender o mercado de homecare, assim desenvolvendo ainda mais minhas habilidades.💻
+- 🚀 Atualmente, estou dedicando meus estudos e tempo livre ao desenvolvimento de uma Health Tech inovadora, projetada para aumentar a eficiência e a gestão de empresas do setor de saúde. A plataforma proporcionará um acompanhamento personalizado dos pacientes e uma gestão eficaz de documentos médicos. 💻
   <div style="display: inline_block"><br>
   <img align="center" alt="feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
