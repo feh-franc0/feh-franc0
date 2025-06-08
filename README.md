@@ -2,9 +2,9 @@
  <div>
  
 - 🤓 Me chamo Fernando Franco. +4 anos de experiências como Full Stack (.NET e React)!
-- 📠 Desenvolvimento Back-end em ***C#***, ***.NET***, ***ASP.NET core*** e conhecimentos em ***Java***
-- 🌱 Desenvolvimento Front-end em ***React*** e ***React Native***
-- ☁️ ***AWS*** - Cloud e Micro Serviços: ***EC2***, ***S3***, ***RDS***, ***SQS***, ***SNS*** e ***LAMBDA***
+- 📠 Desenvolvimento _Back-end_ em ***C#***, ***.NET***, ***ASP.NET core*** e conhecimentos em ***Java***
+- 🌱 Desenvolvimento _Front-end_ em ***React*** e ***React Native***
+- ☁️ _AWS_ - Cloud e Micro Serviços: ***EC2***, ***S3***, ***RDS***, ***SQS***, ***SNS*** e ***LAMBDA***
 - 📫 Email: fernandofv1110@gmail.com
 - 🧑‍💼 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
 > 🚀 Nos meus tempos livres, utilizo AWS para desenvolver um sistema de captação de leads empresariais via scraping, com integração de automações e IA para otimizar o fechamento de vendas e agendamento de reuniões via WhatsApp.. 💻
