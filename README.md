@@ -1,11 +1,13 @@
 # ***Olá! Bem vindo ao meu GitHub. 😄👋***
  <div>
  
-- 🤓 Me chamo Fernando Franco. Trabalho na aréa desde 2022!
-- 🌱 Desenvolvo em ***C#***, ***.NET***, ***ASP.NET core*** e ***ReactTS***
+- 🤓 Me chamo Fernando Franco. +4 anos de experiências como Full Stack (.NET e React)!
+- 🌱 Desenvolvimento Front-end em ***React*** e ***React Native***
+- 📠 Desenvolvimento Back-end em ***C#***, ***.NET***, ***ASP.NET core*** e conhecimentos em ***Java***
+- ☁️ AWS - Cloud e Micro Serviços: EC2, S3, RDS, SQS, SNS e LAMBDA
 - 📫 Email: fernandofv1110@gmail.com
 - 🧑‍💼 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
-> 🚀 Atualmente, estou dedicando meus estudos e tempo livre ao desenvolvimento de uma Health Tech inovadora, projetada para aumentar a eficiência e a gestão de empresas do setor de saúde. A plataforma proporcionará um acompanhamento personalizado dos pacientes e uma gestão eficaz de documentos médicos. 💻
+> 🚀 Nos meus tempos livres, utilizo AWS para desenvolver um sistema de captação de leads empresariais via scraping, com integração de automações e IA para otimizar o fechamento de vendas e agendamento de reuniões via WhatsApp.. 💻
   <div style="display: inline_block"><br>
   <img align="center" alt="feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
