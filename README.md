@@ -9,8 +9,8 @@
 - 🧑‍💼 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
 > 🚀 Nos meus tempos livres, utilizo AWS para desenvolver um sistema de captação de leads empresariais via scraping, com integração de automações e IA para otimizar o fechamento de vendas e agendamento de reuniões via WhatsApp.. 💻
   <div style="display: inline_block"><br>
-   <img align="center" alt="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-   <img align="center" alt="Golang" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
   <img align="center" alt="feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="feh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
