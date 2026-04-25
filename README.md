@@ -1,47 +1,72 @@
-# ***Olá! Bem vindo ao meu GitHub. 😄👋***
- <div>
- 
-- 🤓 Me chamo Fernando Franco. +4 anos de experiências como Full Stack (.NET e React)!
-- 📠 Desenvolvimento _Back-end_ em ***C#***, ***.NET***, ***ASP.NET core*** e conhecimentos em ***Java***
-- 🌱 Desenvolvimento _Front-end_ em ***React*** e ***React Native***
-- ☁️ _AWS_ - Cloud e Micro Serviços: ***EC2***, ***S3***, ***RDS***, ***SQS***, ***SNS*** e ***LAMBDA***
-- 📫 Email: fernandofv1110@gmail.com
-- 🧑‍💼 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
-> 🚀 Nos meus tempos livres, utilizo AWS para desenvolver um sistema de captação de leads empresariais via scraping, com integração de automações e IA para otimizar o fechamento de vendas e agendamento de reuniões via WhatsApp.. 💻
-  <div style="display: inline_block"><br>
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
-  <img align="center" alt="feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="feh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" left="30" align="center" alt="feh-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="feh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" left="30" alt="feh-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" left="30" alt="feh-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" left="30" alt="feh-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" left="30" alt="feh-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-</div>
-   
-  <!-- ##
-<div> 
-  <a href="https://www.linkedin.com/in/fernandofrancovalle/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>-->
-<br>
- 
-# ***Projetos Favoritos: Pinned Repositórios. 📌***
+<h1 align="center">Fernando Franco</h1>
+<p align="center">
+  <strong>Full Stack Software Engineer</strong> · .NET · React · AWS
+</p>
 
-Na seção "Pinned" do meu perfil, você encontrará os ***seis repositórios que considerei mais relevantes***, fica logo abaixo dessa sessão:
- 
-### 1. GSCare - Plataforma Avançada de Gestão de Saúde 🏥💻 [GSCARE, clique aqui.](https://gscare.com.br/)
-> ASP.NET core | React | React Native
-GSCare é uma plataforma robusta desenvolvida para empresas no setor de saúde, oferecendo uma solução completa de gestão e monitoramento. Com uma aplicação web e mobile desenvolvida com React e React Native, e um backend poderoso em ASP.NET Core, o GSCare possibilita uma gestão organizacional eficiente para melhorar significativamente o atendimento e cuidado com os pacientes.
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernandofrancovalle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:fernandofv1110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Localização-Brasil-success?style=flat-square" alt="Brasil"/>
+</p>
 
-### 2. Backend sistema de forum 💬 : [BACKEND](https://github.com/feh-franc0/nest-clean)
-> Este projeto, desenvolvido em Node.js com Nest.js, implementa os melhores padrões de arquitetura como DDD, TDD, Clean Architecture, Pub/Sub e Microservices. Ideal para quem busca uma solução robusta e escalável para sistemas de fórum.
+---
 
-### 3. Dados fundamentalistas de ações: [BACK-END](https://github.com/feh-franc0/Projeto-Pessoal-Backend-PersonalFinanceTools) | [FRONT-END](https://github.com/feh-franc0/Projeto-Pessoal-Frontend-PersonalFinanceTools)
-> Personal Finance Tools é um projeto pessoal voltado para scraping de dados fundamentalistas de empresas listadas em bolsa. O objetivo é oferecer ferramentas que permitam uma melhor gestão financeira pessoal, utilizando tecnologias modernas para análise e visualização de dados.
+### Sobre
 
- 
-   
+Engenheiro de software com **mais de 4 anos de experiência** construindo aplicações web e mobile end-to-end. Atuo do design de APIs em **C# / ASP.NET Core** à entrega de interfaces em **React** e **React Native**, com infraestrutura em **AWS** e arquiteturas orientadas a serviços. Tenho prazer em transformar requisitos complexos em produtos confiáveis, performáticos e fáceis de manter.
 
+### Stack principal
+
+**Backend** &nbsp;·&nbsp; C#, .NET, ASP.NET Core, Node.js, NestJS, Java
+**Frontend** &nbsp;·&nbsp; React, React Native, TypeScript
+**Cloud & Infra** &nbsp;·&nbsp; AWS (EC2, S3, RDS, SQS, SNS, Lambda), Docker
+**Dados** &nbsp;·&nbsp; PostgreSQL, MySQL, MongoDB
+**Práticas** &nbsp;·&nbsp; DDD, Clean Architecture, TDD, Microsserviços, Pub/Sub
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### Projetos em destaque
+
+#### GSCare — Plataforma de Gestão de Saúde
+Plataforma corporativa para o setor de saúde, com aplicação web e mobile e backend de alta disponibilidade. Cobre gestão organizacional, monitoramento de pacientes e operação clínica em escala.
+**Stack:** ASP.NET Core · React · React Native
+[gscare.com.br →](https://gscare.com.br/)
+
+#### Backend de Fórum — Arquitetura de Referência
+Backend em **NestJS** aplicando **DDD**, **Clean Architecture**, **TDD** e padrão **Pub/Sub**. Pensado para evoluir em microsserviços, com foco em testabilidade e separação clara de responsabilidades.
+**Stack:** Node.js · NestJS · TypeScript
+[github.com/feh-franc0/nest-clean →](https://github.com/feh-franc0/nest-clean)
+
+#### Personal Finance Tools — Análise Fundamentalista
+Ferramenta pessoal de scraping e análise de dados fundamentalistas de empresas de capital aberto, com frontend dedicado para visualização e apoio a decisões de investimento.
+**Stack:** Backend e Frontend dedicados
+[Backend →](https://github.com/feh-franc0/Projeto-Pessoal-Backend-PersonalFinanceTools) &nbsp;·&nbsp; [Frontend →](https://github.com/feh-franc0/Projeto-Pessoal-Frontend-PersonalFinanceTools)
+
+---
+
+### Em desenvolvimento
+
+> Sistema de captação de leads B2B em **AWS**, combinando scraping, automações e IA para qualificar oportunidades, conduzir conversas via WhatsApp e agendar reuniões — encurtando o ciclo comercial de ponta a ponta.
+
+---
+
+### Contato
+
+Aberto a oportunidades, colaborações e conversas técnicas.
+**Email:** fernandofv1110@gmail.com &nbsp;·&nbsp; **LinkedIn:** [/in/fernandofrancovalle](https://www.linkedin.com/in/fernandofrancovalle/)
